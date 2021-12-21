@@ -1,0 +1,1 @@
+#include <iostream>using namespace std;//definmicje funkcji int suma(int a, int b) {    return a + b;}float roznica(float a, float b) {    return a - b;}void wypisz() {    cout << "test\n";}
